@@ -17,7 +17,7 @@ jobs:
         run: npm install
 
       - name: Run script to update README
-        run: node update-readme.js
+        run: node .github/workflows/update-readme.js
 
       - name: Commit changes
         run: |
