@@ -6,8 +6,8 @@
   I'm a computer science student
   
 - 🎓 3rd year computer science student at Autonomus University of Barcelona
-- 🔭 I’m currently working on diverse projects related with graphics and machine learning
-- 🌱 I’m currently learning about web development, robotics and computer vision
+- 🔭 I’m currently working on diverse projects related with robotics and machine learning 
+- 🌱 I’m currently learning about full-stack development, robotics and computer vision
 - 🤔 Exploring new technologies and new solutions
 - 😄 Pronouns: He/him
 <!-- - ⚡ Fun fact: -->
